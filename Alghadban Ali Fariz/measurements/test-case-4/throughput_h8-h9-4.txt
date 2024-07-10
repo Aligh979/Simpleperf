@@ -1,0 +1,5 @@
+A simpleperf client (1) connecting to server 10.0.7.2, port 8089
+Client (1) connected with 10.0.7.2 port 8089
+----------------------------------------------------------
+ID		Interval	Transfer	Bandwidth
+10.0.4.2:47044	0.0 - 30.1s	60.2 MB	2.0 MBps
